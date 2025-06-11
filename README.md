@@ -1,7 +1,7 @@
 
 # Realistic Adaptation of Medical Vision-Language Models
 
-<img src="./local_data/media/overview.svg" width = "700" alt="" align=center /> <br/>
+<img src="./local_data/media/overview.svg" width = "750" alt="" align=center /> <br/>
 
 The official implementation of [*Towards a Realistic Few-Shot Adaptation of Medical Vision-Language Models*]().<br/>
 📜 <span style="color:red">*Medical Image Computing and Computer Assisted Intervention (MICCAI)*</span> \
