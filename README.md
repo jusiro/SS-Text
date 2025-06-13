@@ -70,7 +70,7 @@ If you find this repository useful, please consider citing the following sources
 - For SS-Text+, designed for unbalanced scenarios, and realistic few-shot settings:
 ```
 @inproceedings{sstext25,
-    title={Towards a Realistic Few-Shot Adaptation of Medical Vision-Language Models},
+    title={Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation},
     author={Julio Silva-Rodríguez and Fereshteh Shakeri and Houda Bahig and Jose Dolz and Ismail {Ben Ayed}},
     booktitle={Medical Image Computing and Computer Assisted Intervention (MICCAI)},
     year={2025}
