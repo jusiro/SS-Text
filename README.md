@@ -3,7 +3,7 @@
 
 <img src="./local_data/media/overview.svg" width = "750" alt="" align=center /> <br/>
 
-The official implementation of [*Towards a Realistic Few-Shot Adaptation of Medical Vision-Language Models*]().<br/>
+The official implementation of [*Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation*]().<br/>
 📜 <span style="color:red">*Medical Image Computing and Computer Assisted Intervention (MICCAI)*</span> \
 [Julio Silva-Rodríguez<sup>1</sup>](https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl),
 [Fereshteh Shakeri<sup>1,2</sup>](https://scholar.google.com/citations?user=aRRqD9oAAAAJ&hl),
