@@ -3,7 +3,7 @@
 
 <img src="./local_data/media/overview.svg" width = "750" alt="" align=center /> <br/>
 
-The official implementation of [*Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation*]().<br/>
+The official implementation of [*Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation*](https://arxiv.org/abs/2506.17500).<br/>
 📜 <span style="color:red">*Medical Image Computing and Computer Assisted Intervention (MICCAI)*</span> \
 [Julio Silva-Rodríguez<sup>1</sup>](https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl),
 [Fereshteh Shakeri<sup>1,2</sup>](https://scholar.google.com/citations?user=aRRqD9oAAAAJ&hl),
@@ -11,7 +11,7 @@ The official implementation of [*Few-Shot, Now for Real: Medical VLMs Adaptation
 [Jose Dolz<sup>1,2</sup>](https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl),
 [Ismail Ben Ayed<sup>1,2</sup>](https://scholar.google.es/citations?user=29vyUccAAAAJ&hl) <br/>
 <sup>1</sup>ÉTS Montréal ⋅ <sup>2</sup> Centre Hospitalier de l’Université de Montréal (CRCHUM)<br/>
-| [Conference]() | [ArXiv]() |
+| [Conference](https://arxiv.org/abs/2506.17500) | [ArXiv](https://arxiv.org/abs/2506.17500) |
 <br/>
 
 
