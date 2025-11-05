@@ -67,7 +67,7 @@ If you find this repository useful, please consider citing the following sources
 }
 ```
 
-- For SS-Text+, designed for unbalanced scenarios, and realistic few-shot settings:
+- For SS-Text+, designed for imbalanced scenarios, and realistic few-shot settings:
 ```
 @inproceedings{sstext25,
     title={Few-Shot, Now for Real: Medical VLMs Adaptation without Balanced Sets or Validation},
